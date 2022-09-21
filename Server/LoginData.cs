@@ -1,12 +1,4 @@
-﻿/********************************************************************
-	created:	2014/01/15
-	created:	15:1:2014   16:04
-	filename: 	LoginData.cs
-	author:		王迪
-	
-	purpose:	存放登陆相关玩家数据
-*********************************************************************/
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 public class LoginData
